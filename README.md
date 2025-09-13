@@ -1,2 +1,2 @@
-# Enhance-Bank-Bot-Systemt
- The Smart Bank Bot System is an AI-powered banking assistant built on the MERN stack. it uses NLP and ML to deliver real-time ,automated responses to  queries on loans ,accounts, and services. with a React.js frontend, node.js/Express.js backend, and MongoDB database, it ensures secure, seamless, and personalized banking.
+# The-Sparks-Foundation-Basic-Banking-System-Internship-Project
+I was supposed to create a basic banking website for the Sparks Foundation as an internship project.
